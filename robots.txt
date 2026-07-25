@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://wiki-s1a737.koi888.sbs/sitemap.xml
